@@ -20,7 +20,7 @@ follow the following steps to create client side.
   },
   
  #6. copy the .vue.config.js and paste it in the client folder
- #   run this command
+ #6.1   run this command
   npm install --save vue-resource vue-router  // cmd
  #7. cd client                             // cmd
  #8. npm run serve                        // cmd to run file
